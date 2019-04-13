@@ -1,7 +1,7 @@
 import React from 'react';
 
 const App = () => {
-	return <div />;
+   return <div>fuck you</div>
 };
 
 export default App;
